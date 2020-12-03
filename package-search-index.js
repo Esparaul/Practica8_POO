@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"AtributosInterfaz"},{"l":"claseAbstracta"},{"l":"herencia"},{"l":"interfaz"}]
